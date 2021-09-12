@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3124683c95688d7488f9646a5f9910a2, type: 3}
+  m_Name: WheelData
+  m_EditorClassIdentifier: 
+  dataset:
+  - Id: 1
+    Cols:
+    - X30
+    - min
+    - 20
+    - heart
+  - Id: 2
+    Cols:
+    - X3
+    - 
+    - 10
+    - brush
+  - Id: 3
+    Cols:
+    - X35
+    - 
+    - 10
+    - gem
+  - Id: 4
+    Cols:
+    - X3
+    - 
+    - 10
+    - hammer
+  - Id: 5
+    Cols:
+    - X750
+    - 
+    - 5
+    - coin
+  - Id: 6
+    Cols:
+    - X1
+    - 
+    - 20
+    - brush
+  - Id: 7
+    Cols:
+    - X75
+    - 
+    - 5
+    - gem
+  - Id: 8
+    Cols:
+    - X1
+    - 
+    - 20
+    - hammer
